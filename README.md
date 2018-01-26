@@ -1,5 +1,4 @@
-# CanvasTriangles
-Simple Paint App
+# Simple Paint App
 
 Drag to create triangles
 
