@@ -1,8 +1,7 @@
-# Simple Paint App
-
+# Draw Triangles
 ### Playing around with HTML Canvas
 
-### [https://rishabhr16.github.io/CanvasTriangles/](https://rishabhr16.github.io/CanvasTriangles/)
+### [https://rishabhr16.github.io/canvas-triangles-app/](https://rishabhr16.github.io/canvas-triangles-app/)
 
 - Drag to create triangles
 - Double click on the triangles to delete them
